@@ -2,6 +2,7 @@
   <div>
     <test2 />
     <test4 />
+    <DatePicker />
   </div>
 </template>
 
