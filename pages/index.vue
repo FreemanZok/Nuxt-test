@@ -1,5 +1,6 @@
 <template>
   <div>
+    <test />
     <test2 />
     <test4 />
     <DatePicker />
